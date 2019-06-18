@@ -4,43 +4,71 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hello there!
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+My name is Mayokun Adeniyi. I am an Android Developer.
+I code in Java, Kotlin and sometimes Dart. 
+I currently work at [FStackDev](https://github.com/Fstackdevio) as an Android Developer.
+I believe strongly in community building and in growing of one's local tech community and this has led me to become a [GitHub Campus Expert](https://githubcampus.expert/mayokunthefirst/).
+
+## Contact me
+Interested in connecting? Drop an email at adeniyimayokun17[at]gmail[dot]com or send me a [Tweet](https://twitter.com/mayokunadeniyi).
+
+
+
+
+
+<h2>Experience</h2>
+
+<table> 
+    <tr> 
+        <td> 
+            <i>Sep 2018 - Present</i> &nbsp;&nbsp;&nbsp;&nbsp;
+        </td> 
+        <td> 
+            <strong>Android Developer</strong>
+        </td> 
+    </tr> 
+    <tr> 
+        <td> 
+        </td> 
+        <td> 
+            <a target="_blank" rel="noopener noreferrer" href="https://github.com/Fstackdevio">FStackDev</a>
+        </td> 
+    </tr> 
+    <tr> 
+        <td> 
+        </td> 
+    </tr> 
+    <tr> 
+        <td> 
+            <i>Mar 2019 - Present</i> &nbsp;&nbsp;&nbsp;&nbsp;
+        </td> 
+        <td> 
+            <strong>GitHub Campus Expert</strong>
+        </td> 
+    </tr> 
+    <tr> 
+        <td> 
+        </td> 
+        <td> 
+            <a target="_blank" rel="noopener noreferrer" href="https://githubcampus.expert/mayokunthefirst/">GitHub</a>
+        </td> 
+    </tr> 
+    <tr> 
+         <td> 
+        </td> 
+    </tr> 
+</table>
+
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+    <li>Android Development</li>
+    <li>Java</li>
+    <li>Kotlin</li>
+    <li>Unit and Instrumentation Tests</li>
+    <li>Firebase</li>
+    <li>Git</li>
 </ul>
