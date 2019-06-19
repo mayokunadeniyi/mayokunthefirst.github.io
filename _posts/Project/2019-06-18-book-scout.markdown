@@ -1,5 +1,5 @@
 ---
-title: ":orange_book::mag_right: Book Scout"
+title: "Book Scout"
 layout: post
 date: 2019-05-22 08:54
 tag: android, open-library, open-source
@@ -18,7 +18,7 @@ Book Scout is an android based application that helps the user browse through a 
 ---
 
 ## Preview
-<p align="center"><a href="https://github.com/mayokunthefirst/Book-Scout"><img src="https://user-images.githubusercontent.com/29807085/57989119-1e12bd00-7a8e-11e9-80d7-8c28b454cf58.jpg" width="220" height="380"></a> <a href="https://github.com/mayokunthefirst/Book-Scout"><img src="https://user-images.githubusercontent.com/29807085/57989136-531f0f80-7a8e-11e9-80c8-a45e222ff637.jpg" width="220" height="380"></a> <a href="https://github.com/mayokunthefirst/Book-Scout"><img src="https://user-images.githubusercontent.com/29807085/57989125-32ef5080-7a8e-11e9-925b-8f14d309f9d9.jpg" width="220" height="380"></a></p>
+<p align="center"><a href="https://github.com/mayokunthefirst/Book-Scout"><img src="https://user-images.githubusercontent.com/29807085/57989119-1e12bd00-7a8e-11e9-80d7-8c28b454cf58.jpg" width="220" height="390"></a> <a href="https://github.com/mayokunthefirst/Book-Scout"><img src="https://user-images.githubusercontent.com/29807085/57989136-531f0f80-7a8e-11e9-80c8-a45e222ff637.jpg" width="220" height="390"></a> <a href="https://github.com/mayokunthefirst/Book-Scout"><img src="https://user-images.githubusercontent.com/29807085/57989125-32ef5080-7a8e-11e9-925b-8f14d309f9d9.jpg" width="220" height="390"></a></p>
 
 ---
 

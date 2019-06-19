@@ -106,4 +106,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.playstore %}
+        <a class="link" data-title="play.google.com/store/apps/dev?id={{ site.playstore }}" href="https://play.google.com/store/apps/dev?id={{ site.playstore }}" target="_blank">
+            <img class="icon" src="{{ site.url }}/assets/images/ic_playstore.png" alt="playstore">
+        </a>
+    {% endif %}
 </div>

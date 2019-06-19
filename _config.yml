@@ -3,7 +3,7 @@ name: Mayokun Adeniyi
 bio: Android Developer
 
 # twitter summary info
-description: Mayokun Adeniyi's Portfolio
+description: Mayokun Adeniyi's Personal Website
 
 # if it's an external image, update below for true
 # better with square images
@@ -37,21 +37,14 @@ disqus:
 #facebook: mayokun.adeniyi
 twitter: mayokunadeniyi
 # google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
 linkedin: mayokun-adeniyi
 # youtube: myyoutube
-# spotify: myspotify
 github: mayokunthefirst
 # gitlab: mygitlab
-# lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
 medium: mayokunadeniyi
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 email: adeniyimayokun17@gmail.com
+playstore: 8559036905072832388
 
 authors:
     mayokunadeniyi:
