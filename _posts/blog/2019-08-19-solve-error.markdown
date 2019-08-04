@@ -44,7 +44,7 @@ After this, rebuild and run your application to check if Google Sign-in works no
 
 Still in your Firebase console, under Authentication >> Sign-in method, and having enabled Google Sign-in, select the Google Sign-in option. Check to the if there is a project support email added to the project if not, add one and save it.
 
-<p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/ImagesError12500/fixImage2.png?raw=true" width="95%" height="250"></a></p>
+<p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/ImagesError12500/fixImage2.png?raw=true" width="95%" height="300"></a></p>
 
 After this, rebuild and run your application to check if Google Sign-in works now. If it doesn't proceed to the next step.
 
@@ -71,7 +71,7 @@ After this, rebuild and run your application to check if Google Sign-in works no
 
 In your Google Cloud Platform, with your project selected, on the left nav bar, under **Credentials >> OAuth consent screen**, scroll down to the application logo section, add the application logo and save. 
 
-<p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/ImagesError12500/fixImage1.png?raw=true" width="95%" height="200"></a></p>
+<p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/ImagesError12500/fixImage6.png?raw=true" width="95%" height="200"></a></p>
 
 Rebuild and run your application to check if Google Sign-in now works. After these 4 steps, incase you're still experiencing the same error:12500, do send me a DM on [Twitter](https://twitter.com/mayokunadeniyi). Thank you for your time :thumbsup:
 
