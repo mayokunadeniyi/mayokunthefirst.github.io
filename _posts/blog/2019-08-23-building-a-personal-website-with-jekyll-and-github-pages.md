@@ -81,21 +81,22 @@ After installation, check if Jekyll and Bundler were successfully installed usin
 ## Step 4: Editing the website 
 Most of the time, the developer that built the theme you've chosen instructs you on how to add your information, add new blog posts, images, projects e.t.c These instructions are mostly found in the `README.md` file of the theme's repository on GitHub. 
 
-I recommend using [Visual Studio Code]() for this but feel free to use any tool you find convenient. Open the project in your code editor, edit the theme by adding your information. You can always check `http://127.0.0.1:4000` to see any new changed you made after saving.
+I recommend using [Visual Studio Code](https://code.visualstudio.com/) for this but feel free to use any tool you find convenient. Open the project in your code editor, edit the theme by adding your information. You can always check `http://127.0.0.1:4000` to see any new changed you made after saving.
 
-**Note: [Markdown]() is supported here so feel free! You could also learn how to use Markdown [here]()**
+**Note: [Markdown](https://www.markdownguide.org/) is supported here so feel free! You could also learn how to use Markdown [here](https://www.markdownguide.org/)**
 
 ---
 
 ## Step 5: Hosting on GitHub 
 * Create a new repository to host your website. The naming convention for the repository should follow the order **"YOUR_GITHUB_USERNAME" + ".github.io"**. For example, my GitHub username is **"mayokunthefirst"**, i'll name the repository **"mayokunthefirst.github.io"**. 
-    * In the option where you're asked if you want to include a `README` when creating the new repository, select no.
-* Install [Git]()
+    * In the option where you're asked if you want to initialize the repository with a `README` when creating the new repository, don't check the box.
+* Install [Git](https://git-scm.com/)
     * Check if you have Git installed using `git --version`
      <p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/JekyllGitHub/5.png?raw=true" style="width:80%"></a></p>
 * After saving the changes you made to the website locally, open a new termainal or command prompt window and navigate to the directory where your website is on your local machine. 
 * Initialize the directory with `git init` 
-* Add the remote head 
+* Add the remote `git remote add origin https://github.com/YOUR_USER_NAME/YOUR_USER_NAME.github.io.git`
+    * <p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/JekyllGitHub/6.png?raw=true" style="width:80%"></a></p>
 * Add all untracked files to git with `git add .`
 * Commit your change with `git commit -m "Initial Commit"`
 * Push your website's files to the GitHub repository you created with `git push -u origin master`
@@ -104,7 +105,7 @@ I recommend using [Visual Studio Code]() for this but feel free to use any tool 
 ---
 
 ## Step 6: Verify your website is live
-After following the above steps, open a new tab in your browser and type in **"YOUR_GITHUB_USERNAME" + ".github.io"** as described above. i.e **"mayokunthefirst.github.io"**, your website should be visible now!
+After following the above steps, open a new tab in your browser and type in **"YOUR_GITHUB_USERNAME" + ".github.io"** as described above. i.e **"mayokunthefirst.github.io"**, your website should be visible now :star:!
 
 ---
 
