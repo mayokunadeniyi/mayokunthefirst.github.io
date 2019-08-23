@@ -112,6 +112,7 @@ After following the above steps, open a new tab in your browser and type in **"Y
 ## Step 7: (Optional) Add a custom domain for website
 If you own a custom domain, you can redirect it to your GitHub Pages website so it has a much more personal feel.
 * Go to your website's repository on GitHub and go to **Settings -> GitHub Pages** add your customdomain and save.
+
 <p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/JekyllGitHub/8.png?raw=true" style="width:80%"></a></p>
 
 * Next, go to your hosting provider and find the Manage DNS section. Add two records there.
