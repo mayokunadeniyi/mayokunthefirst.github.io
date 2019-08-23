@@ -9,7 +9,7 @@ tag:
 - jekyll
 - portfolio
 - website
-star: false
+star: true
 category: blog
 author: mayokunadeniyi
 description: How to build a personal website using Jekyll and GitHub pages.
@@ -118,7 +118,7 @@ If you own a custom domain, you can redirect it to your GitHub Pages website so 
     * Add a ***A record*** that points to `192.30.252.153`
     * Add a ***CNAME record*** that points to your GitHub Pages site **"YOUR_GITHUB_USERNAME" + ".github.io"**
     * Wait for changes to take effect and you’ll be able to access your personal website using your custom domain address
-    
+
 
 Should incase you run into any errors while trying to get this done, do send me a DM on [Twitter](https://twitter.com/mayokunadeniyi). Thank you for your time :thumbsup:
 
