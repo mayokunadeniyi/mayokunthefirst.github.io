@@ -8,7 +8,7 @@ tag:
 - welcome
 category: blog
 author: mayokunadeniyi
-description: My boss came to me and said&#58 "Every method that you write should be less than 25 lines long" and I laughed, I laughed hard, right in his face. I was such a plonker!
+description: My first ever post with GitHub pages and Jekyll themes
 ---
 ## Hello Jekyll :wave:
 <p align="center"><a href="https://jekyllrb.com/"><img class="image" src="{{ site.url }}/assets/images/helloJekyll.png" alt="jekyll" style="width:80%"></a></p>
