@@ -74,8 +74,6 @@ In your Google Cloud Platform, with your project selected, on the left nav bar, 
 
 <p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/ImagesError12500/fixImage6.png?raw=true" style="width:80%"></a></p>
 
----
-
 Rebuild and run your application to check if Google Sign-in now works. After these 4 steps, incase you're still experiencing the same error:12500, do send me a DM on [Twitter](https://twitter.com/mayokunadeniyi). Thank you for your time :thumbsup:
 
 
