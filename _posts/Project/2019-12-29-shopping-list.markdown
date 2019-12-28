@@ -7,7 +7,7 @@ headerImage: true
 image: ../assets/images/shoppinglist-logo.png
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Get access to all your favorite books in one simple search"
+description: "Keep track of items needed when shopping"
 category: project
 author: mayokunadeniyi
 externalLink: false
@@ -18,7 +18,7 @@ An Android application that integrates the [Android Jetpack](https://developer.a
 ---
 
 ## Preview
-<p align="center"><a><img src="https://github.com/mayokunthefirst/Shopping-List/blob/master/gif/gifdemo.gif" width="300"></a></p>
+<p align="center"><a><img src="/assets/images/gifdemo.gif" width="300"></a></p>
 
 
 ---
