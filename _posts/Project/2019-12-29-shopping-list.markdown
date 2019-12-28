@@ -13,11 +13,11 @@ author: mayokunadeniyi
 externalLink: false
 ---
 
-An Android application that integrates the [Android Jetpack](https://developer.android.com/jetpack/) components to help keep track of items needed when shopping. This application was implemented using MVVM pattern, LiveData, ViewModel, Kotlin-Coroutines, Room, Navigation Components and DataBinding
+An Android application that integrates the [Android Jetpack](https://developer.android.com/jetpack/) components to help keep track of items needed when shopping. This application was implemented using MVVM pattern, LiveData, ViewModel, Kotlin-Coroutines, Room, Navigation Components and DataBinding.
 
 ---
 
-## Preview
+## Quick Demo
 <p align="center"><a><img src="/assets/images/gifdemo.gif" width="300"></a></p>
 
 
@@ -31,7 +31,7 @@ The architecture of this application relies and complies with the following poin
 
 ---
 
-## Technologies used:
+## Technologies
 
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) to store and manage UI-related data in a lifecycle conscious way.
 * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) to handle data in a lifecycle-aware fashion.
