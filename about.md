@@ -6,10 +6,9 @@ layout: page
 
 Hello there!
 
-My name is Mayokun Adeniyi. I am an Android Developer.
-I code in Java and Kotlin. 
-I currently work(learning & building) at [FStackDev](https://github.com/Fstackdevio) as an Android Developer.
-I love learning about, testing out and building with new technologies as pertaining to Android application development as I love keeping myself up to date about new developments in the ecosystem.
+My name is Mayokun Adeniyi, an Android Developer.
+I code in Java & Kotlin and currently work *(learning & building)* at [FStackDev](https://github.com/Fstackdevio) as an Android Developer.
+I love learning about, testing out and building with new technologies as I love keeping myself up to date about new developments in the ecosystem.
 I believe strongly in community building and in growing of one's local tech community and this has led me to become a [GitHub Campus Expert](https://githubcampus.expert/mayokunthefirst/).
 
 ## Contact me
