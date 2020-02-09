@@ -7,7 +7,7 @@ layout: page
 Hello there!
 
 My name is Mayokun Adeniyi. I am an Android Developer.
-I code in Java, Kotlin and sometimes Dart. 
+I code in Java, Kotlin and sometimes C. 
 I currently work at [FStackDev](https://github.com/Fstackdevio) as an Android Developer.
 I believe strongly in community building and in growing of one's local tech community and this has led me to become a [GitHub Campus Expert](https://githubcampus.expert/mayokunthefirst/).
 
@@ -66,8 +66,8 @@ Interested in connecting? Drop an email at adeniyimayokun17[at]gmail[dot]com or 
 
 <ul class="skill-list">
     <li>Android Development</li>
-    <li>Java</li>
     <li>Kotlin</li>
+    <li>Java</li>
     <li>Unit and Instrumentation Tests</li>
     <li>Firebase</li>
     <li>Git</li>
