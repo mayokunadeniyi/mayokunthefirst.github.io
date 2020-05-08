@@ -24,7 +24,7 @@ In the world of Android development, we are always consuming one [API](https://e
 
 ## Step 1
 The first step was to create a new branch in the project and checkout that branch. A simple "`git checkout -b new-branch-name`". After which I created `.github\workflows\` directory in the root of the Android project. In that same directory, I created the workflow file. I named this workflow file `android_build.yml`. The file uses the [YAML](https://en.wikipedia.org/wiki/YAML) file extension.
-<p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/GitHub-Actions/pic1.png?raw=true"></a></p>
+<p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/GitHub-Actions/pic1.png?raw=true" style="width:80%"></a></p>
 
 ## Step 2
 Next step was to write out the content for the workflow file starting with the `name`. This `name` should match the workflow file's name. After which I defined when I wanted this workflow file to be executed using the `on` key which were when a Pull Request was made or when a push occurs to the repository. By now we have something like this:
@@ -122,8 +122,8 @@ jobs:
 ```
 
 ## Final Step
-Now, we have successfully written out a simple workflow for our project. You can validate the syntax of this YAML file using the [YAML Lint](http://www.yamllint.com/) tool. GitHub Actions would only recognize this workflow if it's in our `master` branch. The final step was to save all our changes `git add .`, commit the changes `git commit -m "Commit message"` and push to the current branch I was working on. I then proceeded to GitHub, created a Pull Request from that branch and merged it into my `master` branch. Having done this, we would have setup GitHub Actions for our repository. Any commit we push to the repository, or a Pull Request made to the repository would trigger our workflow as we have set it to. And voila!
+Now, we have successfully written out a simple workflow for our project. You can validate the syntax of this YAML file using the [YAML Lint](http://www.yamllint.com/) tool. GitHub Actions would only recognize this workflow if it's in our `master` branch. The final step was to save all our changes `git add .`, commit the changes `git commit -m "Commit message"` and push to the current branch I was working on. I then proceeded to GitHub, created a Pull Request from that branch and merged it into my `master` branch. Having done this, we would have setup GitHub Actions for our repository. Any commit we push to the repository, or a Pull Request made to the repository would trigger our workflow as we have set it to. And voila! we have this:
 
-<p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/GitHub-Actions/pic2.png?raw=true"></a></p>
+<p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/GitHub-Actions/pic2.png?raw=true" style="width:80%"></a></p>
 
 Incase you are experiencing any issue setting this up, [Nate Ebel](https://twitter.com/n8ebel) has a good tutorial on YouTube to help you understand. Check it out [here](https://www.youtube.com/watch?v=dFHV5KsX6Xw). You can also send me a message on [Twitter](https://twitter.com/mayokunadeniyi). Thank you for your time :thumbsup:
