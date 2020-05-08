@@ -11,7 +11,7 @@ tag:
 - continous delivery
 category: blog
 author: mayokunadeniyi
-description: How to setup GitHub Actions for Android projects that utilize several API keys.
+description: How to setup CI/CD using GitHub Actions for Android projects that utilize several API keys.
 ---
  
  If you are familiar with the concept of [CI/CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment), you would agree that [GitHub Actions](https://github.com/features/actions) is one of the best things to happen in this field as it makes it so easy to automate your software workflows. You get to build, test, and deploy your code right from GitHub and this is what makes it so cool.
