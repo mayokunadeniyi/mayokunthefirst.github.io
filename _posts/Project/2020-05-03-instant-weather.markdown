@@ -4,7 +4,7 @@ layout: post
 date: 2020-05-03 12:51
 tag: mvvm pattern, data binding, paging library, aloglia, kotlin coroutines, room, livedata, view model, navigation components, android ktx
 headerImage: true
-image: ../assets/images/instant_weather_512.png
+image: ../assets/images/instantweather/instant_weather_512.png
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "An android application that provides real time weather information including forecasts"
@@ -18,7 +18,7 @@ An Android weather application implemented using the MVVM pattern, Retrofit2, Li
 ---
 
 ## Preview
-<p><a><img src="/assets/images/instant_weather_github.png"></a></p>
+<p><a><img src="/assets/images/instantweather/instant_weather_github.png"></a></p>
 
 <a href='https://play.google.com/store/apps/details?id=com.mayokunadeniyi.instantweather&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="280"/></a>
 ---

@@ -2,7 +2,7 @@
 title: Build a personal website with Jekyll and GitHub pages
 layout: post
 date: 2019-08-23 14:08
-image: /assets/images/GitHubJekyll.png
+image: /assets/images/hellojekyll/GitHubJekyll.png
 headerImage: true
 tag:
 - github pages

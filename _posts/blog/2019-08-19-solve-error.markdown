@@ -2,7 +2,7 @@
 title: Solving error code:12500, Google Sign-in auth
 layout: post
 date: 2019-08-04 04:33
-image: /assets/images/errorimage.png
+image: /assets/images/errorpost/errorimage.png
 headerImage: false
 tag:
 - google sign-in
@@ -16,7 +16,7 @@ category: blog
 author: mayokunadeniyi
 description: How to fix error code:12500 when implementing authentication with Google Sign-in.
 ---
-<p align="center"><a><img class="image" src="{{ site.url }}/assets/images/errorimage.png" alt="jekyll" style="width:80%"></a></p>
+<p align="center"><a><img class="image" src="{{ site.url }}/assets/images/errorpost/errorimage.png" alt="jekyll" style="width:80%"></a></p>
 
 Errors:bangbang: They suck right? I was building an Android application with Firebase that uses Google Sign-in to perform authentication and on testing it out, I got this error code:12500. Oh well, I headed out to the [documentation](https://developers.google.com/android/reference/com/google/android/gms/auth/api/signin/GoogleSignInStatusCodes) to seek for help and what I saw was not really helpful:
 <p align="center"><a><img src="https://github.com/mayokunthefirst/mayokunthefirst.github.io/blob/master/assets/images/errorStuff.png?raw=true" style="width:80%"></a></p>

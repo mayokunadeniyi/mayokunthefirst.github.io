@@ -2,9 +2,9 @@
 title: "Shopping List"
 layout: post
 date: 2019-12-28 17:51
-tag: mvvm, data binding, kotlin coroutines, room, livedata, view model, navigation components, android ktx
+tag: mvvm, data binding, kotlin coroutines, room, livedata, view model, navigation components, android ktx, Android
 headerImage: true
-image: ../assets/images/shoppinglist-logo.png
+image: ../assets/images/shoppinglist/shoppinglist-logo.png
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Keep track of items needed when shopping"
@@ -18,7 +18,7 @@ An Android application that integrates the [Android Jetpack](https://developer.a
 ---
 
 ## Quick Demo
-<p align="center"><a><img src="/assets/images/gifdemo.gif" width="300"></a></p>
+<p align="center"><a><img src="/assets/images/shoppinglist/gifdemo.gif" width="300"></a></p>
 
 
 ---

@@ -4,7 +4,7 @@ layout: post
 date: 2019-05-22 08:54
 tag: android, open-library, open-source
 headerImage: true
-image: ../assets/images/bookScoutLogo.png
+image: ../assets/images/bookscout/bookScoutLogo.png
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Get access to all your favorite books in one simple search"

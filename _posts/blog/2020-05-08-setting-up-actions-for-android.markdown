@@ -2,7 +2,7 @@
 title: Setting up GitHub Actions for Android Projects with several API keys.
 layout: post
 date: 2020-05-08 14:15
-image: /assets/images/github_actions.png
+image: /assets/images/GitHub-Actions/github_actions.png
 headerImage: true
 tag:
 - android
